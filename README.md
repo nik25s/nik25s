@@ -8,7 +8,7 @@ I am Flutter Developer.
 I like to develop things which are beneficial to the community.
 <br>
 <br>
-Skills:C/C++/Java/Flutter/Firebase.
+Skills: C/C++/Java/Flutter/Firebase.
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik25s" alt="nik25s" /></a> </p>
 
@@ -19,5 +19,5 @@ Skills:C/C++/Java/Flutter/Firebase.
 
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nik25s&theme=blue-green&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik25s&layout=compact)](https://github.com/nik25s/github-readme-stats&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik25s&layout=compact)](https://github.com/nik25s/github-readme-stats/theme=blue-green)
 
