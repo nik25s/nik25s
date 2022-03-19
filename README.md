@@ -21,4 +21,4 @@ Skills:C/C++/Java/Flutter/Firebase.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik25s&layout=compact)](https://github.com/nik25s/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nik25s&theme=buefy)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nik25s&theme=blue-green_icon=true)](https://git.io/streak-stats)
