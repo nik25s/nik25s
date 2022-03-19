@@ -19,5 +19,5 @@ Skills: C/C++/Java/Flutter/Firebase.
 
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nik25s&theme=blue-green&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik25s&layout=compact)](https://github.com/nik25s&theme=blue-green/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik25s&layout=compact)](https://github.com/nik25s/github-readme-stats)
 
