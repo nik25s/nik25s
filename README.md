@@ -3,9 +3,12 @@
 
 
 ### Hey there, I am NISHANT SUTHAR👋
-I am a Developer.
+I am Flutter Developer.
 <br>
 I like to develop things which are beneficial to the community.
+<br>
+<br>
+Skills:C/C++/Java/Flutter/Firebase.
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik25s" alt="nik25s" /></a> </p>
 
