@@ -20,7 +20,7 @@ Skills: C /C++ /Java /Flutter /Firebase
 
 ![GitHub metrics](https://metrics.lecoq.io/nik25s)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nik25s)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nik25s&theme=blue-green)  
 
 ![Profile views](https://gpvc.arturio.dev/nik25s)  
 
