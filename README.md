@@ -14,7 +14,7 @@ Skills: C /C++ /Java /Flutter /Firebase
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nik25s)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik25s)](https://github.com/anuraghazra/github-readme-stats&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik25s&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nik25s&theme=blue-green&show_icons=true)  
 
