@@ -15,6 +15,7 @@ Skills: C /C++ /Java /Flutter /Firebase
 [![trophy](https://github-profile-trophy.vercel.app/?username=nik25s)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik25&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![An image of @nishant_suthar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishant_suthar)](https://holopin.io/@nishant_suthar)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nik25s&theme=blue-green&show_icons=true)  
 
